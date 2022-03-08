@@ -1,5 +1,7 @@
 # Contributing
 
+"Bitte sende eine E-Mail an lieblingskollege.com"
+
 Your contributions are always welcome!
 
 ## Guidelines
